@@ -1,0 +1,5 @@
+name: custom-biomes
+version: '${version}'
+main: com.redescout.custombiomes.BiomesPlugin
+author: uRyanxD_
+load: STARTUP
